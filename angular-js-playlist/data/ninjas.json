@@ -1,0 +1,25 @@
+[{
+	"name": "Yoshi",
+	"belt": "Green",
+	"rate": 50,
+	"available": true,
+	"thumb": "content/img/Battleforge_new_2.ico"
+}, {
+	"name": "Sharma",
+	"belt": "Yellow",
+	"rate": 150,
+	"available": true,
+	"thumb": "content/img/Bionic Commando_3.ico"
+}, {
+	"name": "Jha",
+	"belt": "Orange",
+	"rate": 500,
+	"available": true,
+	"thumb": "content/img/Blood Omen 2_1.ico"
+}, {
+	"name": "Mishra",
+	"belt": "Black",
+	"rate": 250,
+	"available": true,
+	"thumb": "content/img/Bloodbowl_2.ico"
+}]
